@@ -2,7 +2,7 @@
 // 1er ejemplo==================================================================================================
 
 // let numero = parseInt(prompt(" Armarmos una lista?, decime el 1er numero que sea menor y no igual que el 2do"));
-// let numero1 = parseInt(prompt("decie el 2do numero"));
+// let numero1 = parseInt(prompt("decieme el 2do numero"));
 // if (numero < numero1) {
 //     for (let i = numero; i <= numero1; i++) {
 //         if (i === 12) {
